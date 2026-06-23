@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import MaterialIcon from "@/components/ui/MaterialIcon";
+import MaterialIcon from "@/component/ui/MaterialIcon";
 
 const featuredProject = {
   title: "Architectura CMS",
