@@ -1,4 +1,4 @@
-import MaterialIcon from "@/components/ui/MaterialIcon";
+import MaterialIcon from "@/component/ui/MaterialIcon";
 
 const services = [
   {
